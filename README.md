@@ -18,7 +18,6 @@ Do not copy an existing application's branding, source code, or proprietary impl
 Build a central engine that transforms raw advertising records into structured campaign intelligence.
 
 It must:
-
 * Retrieve campaign data from connected advertising platforms.
 * Normalize supported metrics and dimensions.
 * Compare current performance with historical baselines.
