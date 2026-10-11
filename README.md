@@ -52,7 +52,6 @@ Example user questions:
 * What should the account manager review first?
 
 The LLM must request additional data or state uncertainty when the available evidence cannot answer a question.
-
 #### C. Campaign health scoring
 
 Create a configurable campaign health assessment.
