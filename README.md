@@ -10,7 +10,6 @@ Use Windsor.ai as the advertising data integration layer. Use Python for determi
 
 The application must be an original implementation with a modular architecture, independently designed workflows, explicit validation rules, and a clear separation between numerical analysis and AI reasoning.
 
-Do not copy an existing application's branding, source code, or proprietary implementation.
 
 ### 2. Core product capabilities
 
