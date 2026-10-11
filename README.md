@@ -15,7 +15,6 @@ Do not copy an existing application's branding, source code, or proprietary impl
 ### 2. Core product capabilities
 
 #### A. Advertising intelligence engine
-
 Build a central engine that transforms raw advertising records into structured campaign intelligence.
 
 It must:
