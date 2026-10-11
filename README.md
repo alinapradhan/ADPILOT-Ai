@@ -1,5 +1,5 @@
-
 # ADPILOT AI
+
 ## An LLM-Powered Advertising Intelligence and Decision Support Platform
 
 ### 1. Vision
