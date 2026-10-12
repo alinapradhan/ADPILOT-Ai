@@ -55,7 +55,6 @@ Evaluate campaigns using relevant indicators such as:
 * Recent changes relative to historical performance.
 
 Do not use one universal formula for every advertising objective.
-
 Allow the user to specify business goals, target CPA, target ROAS, reporting windows, and applicable KPIs.
 
 Return:
