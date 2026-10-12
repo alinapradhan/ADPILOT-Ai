@@ -331,17 +331,6 @@ The coding agent must:
 * Demonstrate an end-to-end analysis using synthetic data.
 * Document any feature that requires real Windsor.ai or LLM credentials.
 
-Begin with Milestone 1 and complete it before moving to later milestones. At every milestone, explain the files created, commands executed, tests performed, and remaining limitations.
-
-
-
-
-
-
-
-
-
-  
 
 
 
