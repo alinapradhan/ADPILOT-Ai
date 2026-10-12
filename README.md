@@ -20,10 +20,7 @@ It must:
 * Record evidence supporting every major finding.
 * Identify missing data that limits the analysis.
 
-The engine must never claim to know the cause of a performance change solely because two metrics changed together.
-
 #### B. AI investigation workflow
-
 Implement an investigation workflow that operates as follows:
 
 1. Detect a performance issue or receive an analyst's question.
