@@ -9,7 +9,6 @@ The application must be an original implementation with a modular architecture, 
 ### 2. Core product capabilities
 #### A. Advertising intelligence engine
 Build a central engine that transforms raw advertising records into structured campaign intelligence.
-
 It must:
 * Retrieve campaign data from connected advertising platforms.
 * Normalize supported metrics and dimensions.
