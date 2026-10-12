@@ -1,7 +1,5 @@
 # ADPILOT AI
-
 ## An LLM-Powered Advertising Intelligence and Decision Support Platform
-
 ### 1. Vision
 Build AdPilot AI, an intelligent advertising analysis platform for digital advertising agencies, media buyers, and performance marketing teams.
 The platform must go beyond automated reporting. Its primary responsibility is to interpret advertising performance, identify meaningful changes, investigate possible explanations using available evidence, and provide prioritized recommendations.
