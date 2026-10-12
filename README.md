@@ -140,9 +140,7 @@ Do not assume every connector exposes the same dimensions, attribution rules, cu
 ### 4. Analysis architecture
 
 Use independent, testable components.
-
 Suggested modules:
-
 * DataProvider: retrieves records.
 * DataNormalizer: standardizes source structures.
 * MetricsEngine: calculates deterministic KPIs.
