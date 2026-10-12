@@ -7,7 +7,6 @@ Use Windsor.ai as the advertising data integration layer. Use Python for determi
 The application must be an original implementation with a modular architecture, independently designed workflows, explicit validation rules, and a clear separation between numerical analysis and AI reasoning.
 
 ### 2. Core product capabilities
-
 #### A. Advertising intelligence engine
 Build a central engine that transforms raw advertising records into structured campaign intelligence.
 
