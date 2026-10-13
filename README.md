@@ -56,7 +56,6 @@ Do not use one universal formula for every advertising objective.
 Allow the user to specify business goals, target CPA, target ROAS, reporting windows, and applicable KPIs.
 
 Return:
-
 * Health status.
 * Supporting metrics.
 * Main contributing indicators.
