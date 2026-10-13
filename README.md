@@ -109,7 +109,6 @@ Every major AI-generated finding should contain:
 * A distinction between fact and hypothesis.
 * A recommended next step.
 * A severity or priority label with documented criteria.
-
 Create a validation layer that rejects, corrects, or flags unsupported numerical claims.
 
 ### 3. Data integration
