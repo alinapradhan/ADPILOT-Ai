@@ -117,7 +117,6 @@ Create a validation layer that rejects, corrects, or flags unsupported numerical
 Implement a provider-independent interface for advertising data.
 
 Start with Windsor.ai.
-
 Responsibilities:
 
 * Discover supported connectors and fields using official documentation.
