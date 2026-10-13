@@ -5,7 +5,7 @@ Build AdPilot AI, an intelligent advertising analysis platform for digital adver
 The platform must go beyond automated reporting. Its primary responsibility is to interpret advertising performance, identify meaningful changes, investigate possible explanations using available evidence, and provide prioritized recommendations.
 Use Windsor.ai as the advertising data integration layer. Use Python for deterministic analysis and an LLM for interpretation, investigation planning, and natural-language explanations.
 The application must be an original implementation with a modular architecture, independently designed workflows, explicit validation rules, and a clear separation between numerical analysis and AI reasoning.
- 
+  
 ### 2. Core product capabilities
 #### A. Advertising intelligence engine
 Build a central engine that transforms raw advertising records into structured campaign intelligence.
