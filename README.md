@@ -304,7 +304,6 @@ Milestone 6: Add the conversational analyst and budget opportunity analysis.
 Milestone 7: Add export capabilities and, if required, a React dashboard.
 
 ### 11. Completion requirements
-
 The project is not complete merely because files have been generated.
 The coding agent must:
 * Create actual working implementations.
