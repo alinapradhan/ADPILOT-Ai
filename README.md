@@ -32,7 +32,6 @@ Implement an investigation workflow that operates as follows:
 8. Return a structured explanation with confidence limitations and recommended next steps.
 
 Example user questions:
-
 * Why did our cost per acquisition increase this month?
 * Which campaigns are consuming more budget without producing additional conversions?
 * What changed between the previous reporting period and this period?
@@ -42,7 +41,6 @@ Example user questions:
 
 The LLM must request additional data or state uncertainty when the available evidence cannot answer a question.
 #### C. Campaign health scoring
-
 Create a configurable campaign health assessment.
 
 Evaluate campaigns using relevant indicators such as:
