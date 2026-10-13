@@ -79,7 +79,6 @@ The engine should:
 The initial version must not automatically change advertising budgets or modify live campaigns.
 
 #### E. Conversational advertising analyst
-
 Build a natural-language interface through which an authorized user can ask questions about their connected advertising data.
 
 Workflow:
