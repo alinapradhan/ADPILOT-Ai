@@ -2,7 +2,6 @@ from schemas.common import Finding, Severity
 from validation.claim_validator import ClaimValidator
 
 
-
 def test_claim_validator_flags_missing_values() -> None:
     finding = Finding(
         finding_id="f-1",

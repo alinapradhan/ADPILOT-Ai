@@ -3,7 +3,6 @@ from fastapi.testclient import TestClient
 from app.main import app
 from tests.fixtures.sample_payloads import INVESTIGATION_REQUEST, PREVIEW_REQUEST
 
-
 client = TestClient(app)
 
 

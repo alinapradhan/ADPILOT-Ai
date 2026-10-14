@@ -3,7 +3,6 @@ import pandas as pd
 from analytics.metrics_engine import MetricsEngine
 
 
-
 def test_metrics_engine_handles_zero_denominator() -> None:
     frame = pd.DataFrame(
         [

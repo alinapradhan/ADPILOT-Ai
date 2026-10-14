@@ -8,7 +8,6 @@ from schemas.common import CampaignRecord
 from schemas.requests import AnalysisScope, AnalysisWindow, InvestigationRequest
 from services.run_store import AnalysisRunStore
 
-
 if __name__ == "__main__":
     normalizer = DataNormalizer()
     metrics = MetricsEngine()

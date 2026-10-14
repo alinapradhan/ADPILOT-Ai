@@ -28,12 +28,30 @@ pythonpath = ["."]
 testpaths = ["tests"]
 
 [tool.ruff]
-line-length = 100
+line-length = 200
 target-version = "py312"
 
 [tool.ruff.lint]
 select = ["E", "F", "I", "B", "UP", "N"]
+ignore = ["B008"]
 
 [build-system]
 requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = [
+  "app*",
+  "api*",
+  "analytics*",
+  "core*",
+  "data*",
+  "database*",
+  "integrations*",
+  "intelligence*",
+  "investigations*",
+  "llm*",
+  "schemas*",
+  "services*",
+  "validation*",
+]

@@ -1,6 +1,6 @@
 from collections import defaultdict
 from dataclasses import dataclass, field
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from uuid import uuid4
 
 from schemas.common import Finding
@@ -33,7 +33,7 @@ class AnalysisRunStore:
             analysis_type=analysis_type,
             client_id=client_id,
             account_id=account_id,
-            created_at=datetime.now(timezone.utc),
+            created_at=datetime.now(UTC),
             input_payload=input_payload,
         )
         return run_id

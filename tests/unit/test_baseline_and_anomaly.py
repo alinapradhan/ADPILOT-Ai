@@ -2,7 +2,6 @@ from analytics.anomaly_detector import AnomalyDetector
 from analytics.baseline_analyzer import BaselineAnalyzer
 
 
-
 def test_baseline_comparison_and_anomaly_detection() -> None:
     current = {"spend": 150.0, "conversions": 5.0}
     baseline = {"spend": 100.0, "conversions": 8.0}

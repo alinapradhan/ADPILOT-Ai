@@ -1,8 +1,8 @@
 from analytics.anomaly_detector import AnomalyDetector
 from analytics.baseline_analyzer import BaselineAnalyzer
 from analytics.metrics_engine import MetricsEngine
-from investigations.planner import InvestigationPlanner
 from intelligence.evidence_builder import EvidenceBuilder
+from investigations.planner import InvestigationPlanner
 from llm.interpreter import LLMInterpreter
 from schemas.requests import InvestigationRequest
 from schemas.responses import AnalysisPreviewResponse, InvestigationResponse
