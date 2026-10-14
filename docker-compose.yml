@@ -12,6 +12,6 @@ services:
     environment:
       POSTGRES_DB: adpilot
       POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: postgres
+      POSTGRES_PASSWORD: $$$$$$$$$$$$$$$$$$$$$$44444
     ports:
       - "5432:5432"
