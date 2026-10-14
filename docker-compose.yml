@@ -10,8 +10,8 @@ services:
   db:
     image: postgres:16
     environment:
-      POSTGRES_DB: adpilot
-      POSTGRES_USER: postgres
+      POSTGRES_DB: ad################
+      POSTGRES_USER: pos***********
       POSTGRES_PASSWORD: $$$$$$$$$$$$$$$$$$$$$$44444
     ports:
       - "5432:5432"
